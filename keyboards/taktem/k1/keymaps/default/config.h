@@ -1,0 +1,4 @@
+#define SOFT_SERIAL_PIN D2
+#define SPLIT_HAND_PIN B6
+#define MATRIX_ROWS 4
+#define MATRIX_COLS 2
