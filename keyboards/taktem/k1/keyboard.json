@@ -16,6 +16,14 @@
         "rows": ["D4", "C6"],
         "cols": ["F4", "F5"]
     },
+    "split": {
+        "enabled": true,
+        "soft_serial_pin": "D2",
+        "handedness": {
+            "pin": "B6"
+        },
+        "main": "left"
+    },
     "processor": "atmega32u4",
     "url": "",
     "usb": {
